@@ -2,14 +2,14 @@
 
 This is an online platform for buying the aquarium fish.
 
-Features
+# Features
 User authentication
 Browse fish
 Add to cart
 Checkout
 Admin panel for managing listings, users, and orders
 
-Technologies Used
+# Technologies Used
 HTML
 CSS
 JavaScript
