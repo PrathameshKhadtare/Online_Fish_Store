@@ -18,7 +18,7 @@ MySQL
 
 # Installation
 Clone the repository:
-git clone https://github.com/PrathameshKhadtare/online-aquarium-fish-store.git
+git clone https://github.com/PrathameshKhadtare/Online_Fish_Store.git
 Import the MySQL database (onlinefishshop.sql).
 
 Configure the database connection in config/db.php.
