@@ -40,6 +40,54 @@ Access the application in your web browser.
 ![Screenshot (45)](https://github.com/PrathameshKhadtare/Online_Fish_Store/assets/136837011/468628c3-d7e9-40d9-8b8a-0529753fc1f8)
 ![Screenshot (46)](https://github.com/PrathameshKhadtare/Online_Fish_Store/assets/136837011/7681339e-7bce-48cf-a67a-84f71126f2cd)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Usage
 
 Register an account or log in.
