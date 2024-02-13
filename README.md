@@ -1,4 +1,4 @@
-# Online_Fish_Store
+![Screenshot (39)](https://github.com/PrathameshKhadtare/Online_Fish_Store/assets/136837011/cc9f3acd-e7ba-42c4-b323-d6a58c7f3173)# Online_Fish_Store
 
 This is an online platform for buying the aquarium fish.
 
@@ -26,6 +26,31 @@ Configure the database connection in config/db.php.
 Start a local server environment like XAMPP, WAMP, or MAMP.
 
 Access the application in your web browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Usage
 Register an account or log in.
