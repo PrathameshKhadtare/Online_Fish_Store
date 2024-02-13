@@ -32,6 +32,8 @@ Access the application in your web browser.
 
 # Sample
 ![Screenshot (39)](https://github.com/PrathameshKhadtare/Online_Fish_Store/assets/136837011/05cfff15-5d47-4ced-aa8d-ecb0bc0eac0e)
+![Screenshot (41)](https://github.com/PrathameshKhadtare/Online_Fish_Store/assets/136837011/4a606c09-4412-4dbb-aeeb-ac8547b3952d)
+
 
 
 
